@@ -1,4 +1,4 @@
-Olá obrigado por avalaiar o resultado da automação.
+Olá obrigado por avaliar o resultado da automação.
 O framework utilizado foi o RobotFramework, caso não tenha familiaridade com a ferramenta, vou te passar o passo a passo, para testar diretamente da sua máquina, enquanto não utilizamos a integração contínua aqui no Git!
 
 O que vai ser necessário?
